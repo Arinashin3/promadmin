@@ -1,8 +1,8 @@
-package metrics
+package mtrics
 
 import "fmt"
 
-func metrics() {
+func Mtrics() {
 	alertCount := 1
 	fmt.Printf("test %d", alertCount)
 }
